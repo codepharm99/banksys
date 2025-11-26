@@ -1,4 +1,4 @@
-# BANKsys — учебная банковская система (Java + Spring Boot + PostgreSQL)
+# BANKsys (задача по унику) банковская система (Java + Spring Boot + PostgreSQL)
 
 Учебный проект банковской системы для сотрудников банка.  
 Хранит сотрудников и их роли в PostgreSQL, отдаёт данные через REST API.  
